@@ -1,0 +1,21 @@
+orderNo: "B-9910"
+date:
+  year: 2019
+  month: "APRIL"
+  monthValue: 4
+  dayOfMonth: 18
+  chronology:
+    id: "ISO"
+    calendarType: "iso8601"
+  dayOfWeek: "THURSDAY"
+  leapYear: false
+  dayOfYear: 108
+  era: "CE"
+customerName: "Customer, Jane"
+orderLines:
+- item: null
+  quantity: 0
+  unitPrice: null
+- item: null
+  quantity: 0
+  unitPrice: null
